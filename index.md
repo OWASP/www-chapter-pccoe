@@ -6,7 +6,7 @@ region: Asia
 country: India
 meetup-group: owasp-pccoe-chapter
 ---
-<img width="1157" height="488" alt="OWASP logo" src="https://github.com/user-attachments/assets/1fd7299a-403b-414d-b9a4-d2146160671a" />
+<img width="1157" height="488" alt="OWASP logo" src="https://github.com/OWASP/www-chapter-pccoe/blob/main/assets/images/OWASP%20logo.png" />
 
 ## Welcome
 
