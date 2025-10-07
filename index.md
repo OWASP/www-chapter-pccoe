@@ -6,8 +6,8 @@ region: Asia
 country: India
 meetup-group: owasp-pccoe-chapter
 ---
-
-<img width="1563" height="1563" alt="OWASP logo" src="https://github.com/user-attachments/assets/e9dcba48-fde1-4854-bd4b-6d4f4db2110d" />
+<img width="1200" height="300" alt="OWASP PCCOE logo" src="https://github.com/user-attachments/assets/e9dcba48-fde1-4854-bd4b-6d4f4db2110d" />
+---
 ## Welcome
 
 The **OWASP Student Chapter at Pimpri Chinchwad College of Engineering (PCCOE), Pune** is an officially recognized chapter under the [OWASP Foundation](https://owasp.org).  
