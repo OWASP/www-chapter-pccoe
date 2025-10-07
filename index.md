@@ -42,8 +42,5 @@ Follow us for updates, announcements, and event information:
 
 ## Next Meeting/Event
 ---------------------
-{% include chapter_events.html group=page.meetup-group %}
-
+Stay tuned to our social medias for updates!
 ---
-
-*© 2025 OWASP Student Chapter PCCOE – Building a secure digital future.*
