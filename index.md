@@ -5,7 +5,7 @@ title: OWASP PCCOE
 tags: example-tag
 region: Asia
 country: India
-meetup-group:
+meetup-group: owasp-pccoe-chapter
 
 ---
 
