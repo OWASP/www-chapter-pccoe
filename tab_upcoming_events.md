@@ -7,6 +7,7 @@ tags: events
 ---
 
 ## CYBER KAVACH 2025
+<img width="904" height="207" alt="cyberkavach logo" src="https://github.com/OWASP/www-chapter-pccoe/blob/main/assets/images/cyberkavach%20logo.png" />
 
 
 **A Comprehensive Cybersecurity Program**  
