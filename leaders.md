@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Asmita Manna](mailto:asmita.manna@owasp.org)
+* [Aaryan Bhujang ](mailto:aaryan.bhujang@owasp.org)
+* [Zeeshan Siddique](mailto:zeeshan.siddique@owasp.org)
