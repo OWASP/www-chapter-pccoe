@@ -25,7 +25,7 @@ Our diverse group includes faculty advisors and dedicated core team members work
 
 | Name | Role | Description |
 |------|------|--------------|
-| **Aaryan Bhujang** | Chapter Lead | Leads OWASP PCCOE operations and strategy. Focused on cybersecurity awareness, innovation, and community building. |
+| **Aaryan Bhujang** | Lead | Leads OWASP PCCOE operations and strategy. Focused on cybersecurity awareness, innovation, and community building. |
 | **Mohd Zeeshan Siddique** | Co-Lead | Manages strategic planning, coordination, and community outreach. Ensures smooth functioning of chapter activities. |
 
 ---
