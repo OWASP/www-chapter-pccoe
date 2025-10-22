@@ -1,0 +1,28 @@
+leaders:
+  - name: Asmita Manna
+    email: asmita.manna@owasp.org
+  - name: Aaryan Bhujang
+    email: aaryan.bhujang@owasp.org
+    github: aaryanbhujang
+  - name: Zeeshan Siddique
+    email: zeeshan.siddique@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: Maharashtra
+  city: Pimpri-Chinchwad
+  latitude: 18.6279288
+  longitude: 73.8009829
+meetup_group: owasp-pccoe-chapter
+name: OWASP PCCOE
+repositories:
+  - name: www-chapter-pccoe
+    url: https://github.com/OWASP/www-chapter-pccoe
+    description: OWASP Foundation web repository
+tags:
+  - student-chapter
+  - pccoe
+  - pune
+  - cybersecurity
+  - appsec
+website: https://owasp.org/www-chapter-pccoe
